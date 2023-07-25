@@ -59,7 +59,7 @@ h2 {
 h3 {
   font-family: SonTorpes;
   font-size: clamp(1.125rem, 0.6964rem + 2.1429vw, 2.625rem);
-  margin-top: clamp(1.5rem, 0.9643rem + 2.6786vw, 3.375rem);
+  margin-top: clamp(2.625rem, 2.1964rem + 2.1429vw, 4.125rem);
 }
 
 @font-face {
@@ -80,6 +80,7 @@ p {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
+  padding: 0px 2px 0px 0px;
 }
 
 .dates {
