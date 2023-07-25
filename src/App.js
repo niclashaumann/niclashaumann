@@ -46,9 +46,16 @@ function App() {
         </p>
 
         <h3>Experience</h3>
-        <p>producer, noa ignite 2022 - present</p>
-        <p>junior producer, noa ignite 2021 - 2022</p>
-
+        <div className="experience">
+          <p>producer, noa ignite</p>
+          <p className="dates">
+            2022 - <span className="valid">present</span>
+          </p>
+        </div>
+        <div className="experience">
+          <p>junior producer, noa ignite</p>
+          <p className="dates">2021 - 2022</p>
+        </div>
         <h3>Get in touch</h3>
         <p>
           send me a mail at hi@niclashaumann.com or call/text me at +45
@@ -61,5 +68,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

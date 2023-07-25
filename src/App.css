@@ -64,6 +64,19 @@ p {
   font-family: RobotoCondensed;
   font-size: clamp(1rem, 0.6429rem + 1.7857vw, 2.25rem);
   width: calc(clamp(4.25rem, 0.9107rem + 16.6964vw, 15.9375rem) * 5.3);
-
 }
 
+.experience {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: calc(clamp(4.25rem, 0.9107rem + 16.6964vw, 15.9375rem) * 5.3);
+}
+
+.dates {
+  text-align: right;
+}
+
+.valid {
+  color: green;
+}
