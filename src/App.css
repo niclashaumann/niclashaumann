@@ -32,6 +32,9 @@ a {
 
 .app-mobile {
   width: 90vw;
+  .experience {
+    margin-right: 20px;
+  }
 }
 
 @font-face {
