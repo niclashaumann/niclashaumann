@@ -1,23 +1,37 @@
-import logo from './logo.svg';
 import './App.css';
+import { isMobile } from 'react-device-detect';
+import cn from 'classnames';
 
 function App() {
+
   return (
-    <div className="App">
+    <div className={cn("app",{"app-mobile": isMobile})}>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img alt='dsad' src="assets/logos/logo.png" class="logo" />
       </header>
+      <div>
+        <h1>
+          <span>Niclas</span>
+          <br />
+          <span>Haumann</span>
+        </h1>
+        <h4>
+          <span>Born digital</span>
+        </h4>
+      </div>
+      <div>
+        <h2>About</h2>
+        <p>born sometime in 1995. raised in the heart of copenhagen. and currently working at noa ignite as a producer where we solve complex problems and help companies stand out through meaningful and distinctive digital experiences.</p><br /><p>i am passionate about everything i do and firmly believe that success does not come without failure. i enjoy a challenge - and have been fortunate to experience a lot of those as part of leading a team creating and maintaining many digital experiences in my somewhat short career.</p><br /><p>a few clients i have worked with are løgismose, dansk metal, maersk, hamburg süd, lunar app, postnord, welltec and north risk.</p><br /><p>on the personal side you should know that my dream car is a nero ferrari enzo and my favourite tv-show is larry david.</p>
+
+        <h3>Experience</h3>
+        <p>producer, noa ignite 2022 - present
+          junior producer, noa ignite 2021 - 2022</p>
+
+        <h3>Get in touch</h3>
+        <p>send me a mail at hi@niclashaumann.com or call/text me at +45 40590995.
+
+          or find me on linkedin, instagram or apple music.</p>
+      </div>
     </div>
   );
 }
