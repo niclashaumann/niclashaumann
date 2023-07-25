@@ -42,7 +42,7 @@ function App() {
         </p>
         <br />
         <p>
-          a few clients of that i have worked with are{" "}
+          a few of the clients i have worked with are{" "}
           <a
             href="https://www.loegismose.dk"
             target="_blank"
