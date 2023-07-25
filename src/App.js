@@ -136,7 +136,7 @@ function App() {
             or call/text me at <a href={`tel:+4540590995`}>+45 40590995</a>.
             <br />
             <br />
-            or find me on{" "}
+            ...or find me on{" "}
             <a
               href="https://www.linkedin.com/in/niclashaumann/"
               target="_blank"
