@@ -35,10 +35,10 @@ function App() {
         </p>
         <br />
         <p>
-          as a producer at ignite i lead teams of some of the greates creative
-          and technical people in the business from problem to solutions. i like
-          to succeed, but at the same time firmly believe that success doesn't
-          come without some failures along the way.
+          as a producer at ignite i lead teams of some of the greatest creative
+          and technical people in the business from problem to solutions. i
+          always aim to succeed, but at the same time firmly believe that
+          success doesn't come without some failures along the way.
         </p>
         <br />
         <p>
