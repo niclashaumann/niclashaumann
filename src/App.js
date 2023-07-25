@@ -30,7 +30,7 @@ function App() {
           >
             noa ignite
           </a>{" "}
-          as a producer where we solve complex problems and help companies stand
+          as a producer where we solve complex problems and help clients stand
           out through meaningful and distinctive digital experiences.
         </p>
         <br />
