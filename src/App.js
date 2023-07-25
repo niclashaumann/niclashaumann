@@ -15,7 +15,7 @@ function App() {
           <span>Haumann</span>
         </h1>
         <h4>
-          <span>Born digital</span>
+          <span>'block a second</span>
         </h4>
       </div>
       <div className="container">
