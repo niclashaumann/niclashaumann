@@ -18,7 +18,7 @@ function App() {
           <span>Born digital</span>
         </h4>
       </div>
-      <div>
+      <div className="container">
         <h2>About</h2>
         <p>
           born sometime in 1995. raised in the heart of copenhagen. and
