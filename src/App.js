@@ -22,22 +22,29 @@ function App() {
         <h2>About</h2>
         <p>
           born sometime in 1995. raised in the heart of copenhagen. and
-          currently working at noa ignite as a producer where we solve complex
-          problems and help companies stand out through meaningful and
-          distinctive digital experiences.
+          currently working at <a href="https://www.noaignite.dk">noa ignite</a>{" "}
+          as a producer where we solve complex problems and help companies stand
+          out through meaningful and distinctive digital experiences.
         </p>
         <br />
         <p>
           i am passionate about everything i do and firmly believe that success
           does not come without failure. i enjoy a challenge - and have been
-          fortunate to experience a lot of those as part of leading a team
-          creating and maintaining many digital experiences in my somewhat short
-          career.
+          fortunate to play a small part in many projects from problem to
+          solution together with some of the greatest creative people in the
+          business.
         </p>
         <br />
         <p>
-          a few clients i have worked with are løgismose, dansk metal, maersk,
-          hamburg süd, lunar app, postnord, welltec and north risk.
+          a few clients i have worked with are{" "}
+          <a href="https://www.loegismose.dk">løgismose</a>,{" "}
+          <a href="https://www.danskmetal.dk">dansk metal</a>,{" "}
+          <a href="https://maersktankers.com">maersk tankers</a>,{" "}
+          <a href="https://www.hamburgsud.com">hamburg süd</a>,{" "}
+          <a href="https://www.lunar.app">lunar</a>,{" "}
+          <a href="https://www.postnord.dk">postnord</a>,{" "}
+          <a href="https://www.welltec.com">welltec</a> and{" "}
+          <a href="https://northrisk.dk">north risk</a>.
         </p>
         <br />
         <p>
@@ -56,14 +63,22 @@ function App() {
           <p>junior producer, noa ignite</p>
           <p className="dates">2021 - 2022</p>
         </div>
-        <h3>Get in touch</h3>
-        <p>
-          send me a mail at hi@niclashaumann.com or call/text me at +45
-          40590995.
-          <br />
-          <br />
-          or find me on linkedin, instagram or apple music.
-        </p>
+        <div>
+          <h3>Get in touch</h3>
+          <p>
+            send me a mail at{" "}
+            <a href={`mailto:niclashaumann@icloud.com`}>
+              niclashaumann@icloud.com
+            </a>{" "}
+            or call/text me at <a href={`tel:+4540590995`}>+45 40590995</a>.
+            <br />
+            <br />
+            or find me on linkedin, instagram or apple music.
+          </p>
+        </div>
+      </div>
+      <div className="outro">
+        <span>© niclashaumann, 2023</span>
       </div>
     </div>
   );
