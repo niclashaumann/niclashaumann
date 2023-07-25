@@ -21,13 +21,13 @@ a {
 .app-header {
   color: rgb(40, 40, 40);
   font-family: GIN;
-  font-size: 18vw;
+  font-size: 17.85vw;
   line-height: 0.8;
   text-transform: uppercase;
 }
 
 .app-mobile-header {
-  font-size: 16.2vw;
+  font-size: 16.vw;
 }
 
 .app-mobile {
