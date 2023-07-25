@@ -16,13 +16,13 @@ a {
 .app{
   color: white;
   width: 94vw;
-  margin: 24px;
+  margin: clamp(1.5rem, 1.2143rem + 1.4286vw, 2.5rem);
 }
 
 .app-header {
   color: rgb(40, 40, 40);
   font-family: GIN;
-  font-size: 17.85vw;
+  font-size: 17.80vw;
   line-height: 0.8;
   text-transform: uppercase;
 }
