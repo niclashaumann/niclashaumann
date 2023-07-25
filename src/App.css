@@ -1,12 +1,5 @@
-html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img, ul, ol, li, form, input, button {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  vertical-align: baseline;
-}
-
 .logo {
-  height: 60px;
+  height: clamp(3.75rem, 3.1071rem + 3.2143vw, 6rem);;
   margin-bottom: 100px;
 }
 
@@ -15,12 +8,26 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img, ul, ol, li, form, inpu
   src: url(../public/fonts/GIN_Regular.otf);
 }
 
-h1 {
+.app{
+  color: white;
+  width: 94vw;
+  margin: 24px;
+}
+
+.app-header {
   color: rgb(40, 40, 40);
   font-family: GIN;
-  font-size: 17vw;
+  font-size: 18vw;
   line-height: 0.8;
   text-transform: uppercase;
+}
+
+.app-mobile-header {
+  font-size: 16.2vw;
+}
+
+.app-mobile {
+  width: 90vw;
 }
 
 @font-face {
@@ -32,20 +39,20 @@ h4 {
   font-family: SonTorpes;
   font-size: calc(clamp(3.375rem, -0.125rem + 17.5vw, 15.625rem) * 0.175);
   text-transform: lowercase;
-  margin-top: calc(clamp(3.375rem, -0.125rem + 17.5vw, 15.625rem) * -0.01);
+  margin-top: calc(clamp(3.375rem, -0.125rem + 17.5vw, 15.625rem) * -0.125);
   float: right;
 }
 
 h2 {
   font-family: SonTorpes;
   font-size: clamp(2.25rem, 1.5rem + 3.75vw, 4.875rem);
-  margin-top: 250px;
+  margin-top: clamp(15.625rem, 13.8393rem + 8.9286vw, 21.875rem);
 }
 
 h3 {
   font-family: SonTorpes;
   font-size: clamp(1.125rem, 0.6964rem + 2.1429vw, 2.625rem);
-  margin-top: 36px;
+  margin-top: clamp(1.5rem, 0.9643rem + 2.6786vw, 3.375rem);
 }
 
 @font-face {
@@ -56,13 +63,7 @@ h3 {
 p {
   font-family: RobotoCondensed;
   font-size: clamp(1rem, 0.6429rem + 1.7857vw, 2.25rem);
+  width: calc(clamp(4.25rem, 0.9107rem + 16.6964vw, 15.9375rem) * 5.3);
+
 }
 
-.app{
-  color: white;
-  width: 94vw;
-}
-
-.app-mobile {
-  margin: 20px;
-}

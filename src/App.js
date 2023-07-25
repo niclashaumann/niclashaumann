@@ -6,10 +6,10 @@ function App() {
   return (
     <div className={cn("app", { "app-mobile": isMobile })}>
       <header>
-        <img src="/logos/logo.png" class="logo" />
+        <img src="/logos/logo.png" alt="logo" class="logo" />
       </header>
       <div>
-        <h1>
+        <h1 className={cn("app-header", { "app-mobile-header": isMobile })}>
           <span>Niclas</span>
           <br />
           <span>Haumann</span>
@@ -46,15 +46,16 @@ function App() {
         </p>
 
         <h3>Experience</h3>
-        <p>
-          producer, noa ignite 2022 - present junior producer, noa ignite 2021 -
-          2022
-        </p>
+        <p>producer, noa ignite 2022 - present</p>
+        <p>junior producer, noa ignite 2021 - 2022</p>
 
         <h3>Get in touch</h3>
         <p>
           send me a mail at hi@niclashaumann.com or call/text me at +45
-          40590995. or find me on linkedin, instagram or apple music.
+          40590995.
+          <br />
+          <br />
+          or find me on linkedin, instagram or apple music.
         </p>
       </div>
     </div>
