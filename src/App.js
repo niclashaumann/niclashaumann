@@ -23,7 +23,11 @@ function App() {
         <p>
           born sometime in 1995. raised in the heart of copenhagen. and
           currently working at{" "}
-          <a href="https://www.noaignite.dk" target="_blank">
+          <a
+            href="https://www.noaignite.dk"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             noa ignite
           </a>{" "}
           as a producer where we solve complex problems and help companies stand
@@ -40,35 +44,67 @@ function App() {
         <br />
         <p>
           a few clients i have worked with are{" "}
-          <a href="https://www.loegismose.dk" target="_blank">
+          <a
+            href="https://www.loegismose.dk"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             løgismose
           </a>
           ,{" "}
-          <a href="https://www.danskmetal.dk" target="_blank">
+          <a
+            href="https://www.danskmetal.dk"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             dansk metal
           </a>
           ,{" "}
-          <a href="https://maersktankers.com" target="_blank">
+          <a
+            href="https://maersktankers.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             maersk tankers
           </a>
           ,{" "}
-          <a href="https://www.hamburgsud.com" target="_blank">
+          <a
+            href="https://www.hamburgsud.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             hamburg süd
           </a>
           ,{" "}
-          <a href="https://www.lunar.app" target="_blank">
+          <a
+            href="https://www.lunar.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             lunar
           </a>
           ,{" "}
-          <a href="https://www.postnord.dk" target="_blank">
+          <a
+            href="https://www.postnord.dk"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             postnord
           </a>
           ,{" "}
-          <a href="https://www.welltec.com" target="_blank">
+          <a
+            href="https://www.welltec.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             welltec
           </a>{" "}
           and{" "}
-          <a href="https://northrisk.dk" target="_blank">
+          <a
+            href="https://northrisk.dk"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             north risk
           </a>
           .
@@ -104,17 +140,23 @@ function App() {
             <a
               href="https://www.linkedin.com/in/niclashaumann/"
               target="_blank"
+              rel="noopener noreferrer"
             >
               linkedin
             </a>
             ,{" "}
-            <a href="https://www.instagram.com/niclashaumann/" target="_blank">
+            <a
+              href="https://www.instagram.com/niclashaumann/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               instagram
             </a>{" "}
             and{" "}
             <a
               href="https://music.apple.com/profile/niclashaumann"
               target="_blank"
+              rel="noopener noreferrer"
             >
               apple music
             </a>
