@@ -35,14 +35,14 @@ function App() {
         </p>
         <br />
         <p>
-          i am a doer and firmly believe that success does not come without
-          failure. i enjoy (almost) any challenge and i am fortunate to play a
-          small part in finding solutions to complex problems with some of the
-          greatest creative people in the business.
+          as a producer at ignite i lead teams of some of the greates creative
+          and technical people in the business from problem to solutions. i like
+          to succeed, but at the same time firmly believe that success doesn't
+          come without some failures along the way.
         </p>
         <br />
         <p>
-          a few of the clients i have worked with are{" "}
+          a few of the clients i have failed and succeeded with are{" "}
           <a
             href="https://www.loegismose.dk"
             target="_blank"
@@ -60,19 +60,19 @@ function App() {
           </a>
           ,{" "}
           <a
-            href="https://maersktankers.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            maersk tankers
-          </a>
-          ,{" "}
-          <a
             href="https://www.hamburgsud.com"
             target="_blank"
             rel="noopener noreferrer"
           >
             hamburg süd
+          </a>
+          ,{" "}
+          <a
+            href="https://www.meyers.dk"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            meyers
           </a>
           ,{" "}
           <a
