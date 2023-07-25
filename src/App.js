@@ -22,7 +22,10 @@ function App() {
         <h2>About</h2>
         <p>
           born sometime in 1995. raised in the heart of copenhagen. and
-          currently working at <a href="https://www.noaignite.dk">noa ignite</a>{" "}
+          currently working at{" "}
+          <a href="https://www.noaignite.dk" target="_blank">
+            noa ignite
+          </a>{" "}
           as a producer where we solve complex problems and help companies stand
           out through meaningful and distinctive digital experiences.
         </p>
@@ -37,14 +40,38 @@ function App() {
         <br />
         <p>
           a few clients i have worked with are{" "}
-          <a href="https://www.loegismose.dk">løgismose</a>,{" "}
-          <a href="https://www.danskmetal.dk">dansk metal</a>,{" "}
-          <a href="https://maersktankers.com">maersk tankers</a>,{" "}
-          <a href="https://www.hamburgsud.com">hamburg süd</a>,{" "}
-          <a href="https://www.lunar.app">lunar</a>,{" "}
-          <a href="https://www.postnord.dk">postnord</a>,{" "}
-          <a href="https://www.welltec.com">welltec</a> and{" "}
-          <a href="https://northrisk.dk">north risk</a>.
+          <a href="https://www.loegismose.dk" target="_blank">
+            løgismose
+          </a>
+          ,{" "}
+          <a href="https://www.danskmetal.dk" target="_blank">
+            dansk metal
+          </a>
+          ,{" "}
+          <a href="https://maersktankers.com" target="_blank">
+            maersk tankers
+          </a>
+          ,{" "}
+          <a href="https://www.hamburgsud.com" target="_blank">
+            hamburg süd
+          </a>
+          ,{" "}
+          <a href="https://www.lunar.app" target="_blank">
+            lunar
+          </a>
+          ,{" "}
+          <a href="https://www.postnord.dk" target="_blank">
+            postnord
+          </a>
+          ,{" "}
+          <a href="https://www.welltec.com" target="_blank">
+            welltec
+          </a>{" "}
+          and{" "}
+          <a href="https://northrisk.dk" target="_blank">
+            north risk
+          </a>
+          .
         </p>
         <br />
         <p>
@@ -74,11 +101,21 @@ function App() {
             <br />
             <br />
             or find me on{" "}
-            <a href="https://www.linkedin.com/in/niclashaumann/">
+            <a
+              href="https://www.linkedin.com/in/niclashaumann/"
+              target="_blank"
+            >
               linkedin
-            </a>,{" "}
-            <a href="https://www.instagram.com/niclashaumann/">instagram</a> and{" "}
-            <a href="https://music.apple.com/profile/niclashaumann">
+            </a>
+            ,{" "}
+            <a href="https://www.instagram.com/niclashaumann/" target="_blank">
+              instagram
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://music.apple.com/profile/niclashaumann"
+              target="_blank"
+            >
               apple music
             </a>
             .
