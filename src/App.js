@@ -38,7 +38,7 @@ function App() {
         <p>
           i am a doer and firmly believe that success does not come without
           failure. i enjoy (almost) any challenge and i am fortunate to play a
-          small part at finding solutions to complex problems with some of the
+          small part in finding solutions to complex problems with some of the
           greatest creative people in the business.
         </p>
         <br />
