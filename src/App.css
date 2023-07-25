@@ -5,6 +5,7 @@
 
 a {
   color: white;
+  
 }
 
 @font-face {
@@ -27,13 +28,13 @@ a {
 }
 
 .app-mobile-header {
-  font-size: 16.2vw;
+  font-size: 16.1vw;
 }
 
 .app-mobile {
-  width: 90vw;
+  width: 89vw;
   .experience {
-    margin-right: 20px;
+    margin-right: 10px;
   }
 }
 
@@ -64,11 +65,11 @@ h3 {
 
 @font-face {
   font-family: "RobotoCondensed";
-  src: url(../public/fonts/RobotoCondensed-Regular.ttf);
+  src: url(../public/fonts/RobotoCondensed-Light.ttf);
 }
 
 .container {
-  width: calc(clamp(4.25rem, 0.9107rem + 16.6964vw, 15.9375rem) * 4.5);
+  width: calc(clamp(4.25rem, 0.9107rem + 16.6964vw, 15.9375rem) * 4.4275);
 }
 
 p {
@@ -80,7 +81,7 @@ p {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  padding: 2px 2px 0px 0px;
+  padding: 2px 1px 0px 0px;
 }
 
 .dates {

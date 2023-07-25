@@ -30,20 +30,20 @@ function App() {
           >
             noa ignite
           </a>{" "}
-          as a producer where we solve complex problems and help clients stand
-          out through meaningful and distinctive digital experiences.
+          as a producer. at noa ignite we solve complex problems and help
+          clients stand out through meaningful and distinctive digital
+          experiences.
         </p>
         <br />
         <p>
-          i am passionate about everything i do and firmly believe that success
-          does not come without failure. i enjoy a challenge - and have been
-          fortunate to play a small part in many projects from problem to
-          solution together with some of the greatest creative people in the
-          business.
+          i am a doer and firmly believe that success does not come without
+          failure. i enjoy (almost) any challenge and i am fortunate to play a
+          small part at finding solutions to complex problems with some of the
+          greatest creative people in the business.
         </p>
         <br />
         <p>
-          a few clients i have worked with are{" "}
+          a few clients of that i have worked with are{" "}
           <a
             href="https://www.loegismose.dk"
             target="_blank"
