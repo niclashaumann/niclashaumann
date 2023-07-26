@@ -30,14 +30,14 @@ function App() {
           >
             noa ignite
           </a>{" "}
-          as a producer where we solve complex problems and help clients stand
-          out through meaningful and distinctive digital experiences.
+          as a producer where we help clients stand out through meaningful and
+          distinctive digital experiences.
         </p>
         <br />
         <p>
           in my day to day i work in detail together with some of the greatest
-          creative and technical people in the business to solve the problems
-          while ensuring we do so within time and budget.
+          creative and technical people in the business to solve solve complex
+          problems while ensuring we do so within time and budget.
         </p>
         <br />
         <p>
