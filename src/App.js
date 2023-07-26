@@ -36,7 +36,7 @@ function App() {
         <br />
         <p>
           in my day to day i work in detail together with some of the greatest
-          creative and technical people in the business to solve solve complex
+          creative and technical people in the business to solve complex
           problems while ensuring we do so within time and budget.
         </p>
         <br />
