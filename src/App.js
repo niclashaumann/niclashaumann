@@ -35,9 +35,8 @@ function App() {
         </p>
         <br />
         <p>
-          as a producer i work as a hybrid between product owner and project
-          manager. in short, i work in detail together with some of the greatest
-          creative and technical people in the business to solve the problem
+          in my day to day i work in detail together with some of the greatest
+          creative and technical people in the business to solve the problems
           while ensuring we do so within time and budget.
         </p>
         <br />
