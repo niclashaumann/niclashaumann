@@ -35,15 +35,14 @@ function App() {
         </p>
         <br />
         <p>
-          as a producer i lead teams of some of the greatest creative and
-          technical people in the business from problem to experience. no matter
-          the task ahead i always aim to succeed, but at the same time
-          aknowledge and firmly believe that success doesn't come without some
-          failures along the way.
+          as a producer i work as a hybrid between product owner and project
+          manager. in short, i work in detail together with some of the greatest
+          creative and technical people in the business to solve the problem
+          while ensuring we do so within time and budget.
         </p>
         <br />
         <p>
-          a few of the clients i have failed and succeeded with are{" "}
+          a few of the clients i have worked with so far are{" "}
           <a
             href="https://www.loegismose.dk"
             target="_blank"
